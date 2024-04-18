@@ -1,1 +1,1 @@
-# Code-for-mini-it-project
+# Code-Mini project
